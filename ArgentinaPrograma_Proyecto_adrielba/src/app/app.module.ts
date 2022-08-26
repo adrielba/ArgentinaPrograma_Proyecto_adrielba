@@ -7,6 +7,7 @@ import { HeaderComponent } from './components/header/header.component';
 import { LogoArgComponent } from './components/logo-arg/logo-arg.component';
 import { SocialNetsComponent } from './components/social-nets/social-nets.component';
 import { MybannerComponent } from './components/mybanner/mybanner.component';
+import { AboutMeComponent } from './components/about-me/about-me.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { MybannerComponent } from './components/mybanner/mybanner.component';
     HeaderComponent,
     LogoArgComponent,
     SocialNetsComponent,
-    MybannerComponent
+    MybannerComponent,
+    AboutMeComponent
   ],
   imports: [
     BrowserModule,
