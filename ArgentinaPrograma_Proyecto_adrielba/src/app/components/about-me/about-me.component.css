@@ -1,12 +1,13 @@
 .row{
     padding: 30px;
+    
 }
 #fotoPerfil{
     height: 200px;
     width: 200px;
 }
 div{
-    background-color: #ffffff;
+    background-color: #cfcfcf;
 }
 #nombre{
     font-weight: bold;
@@ -23,7 +24,7 @@ div{
     }
     #nombre{
         font-weight: bold;
-        margin-top: 25%;
+        margin-top: 6%;
     }
 }
 @media(max-width: 576px){
@@ -38,7 +39,7 @@ div{
     #nombre{
         font-weight: bold;
         margin-top: 25%;
-        margin-left: 35%;
+        margin-left: 38%;
 
     }
 }
